@@ -1,0 +1,119 @@
+*{background-color: #333333;}
+
+#about{
+    font-size: 25px;
+    color: lightgray;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+mark {
+    font-size: 25px;
+    color: lightgray;
+}
+head{
+    background-image: url("img/GoPrepared-logos_white.png");
+}
+#linki{
+  font-size: 25px;
+  color:blue;
+}
+.navigation{
+  padding: 20px;
+  font-size: 20px;
+  color: cyan;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.navigation1{
+  padding: 20px;
+  font-size: 20px;
+  color: cyan;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+a{
+  font-size: 18px;
+  font-family: 'Times New Roman', Times, serif;
+  color: white;
+}
+p{
+  font-family:'Times New Roman', Times, serif;
+  color: whitesmoke;
+  font-size: 25px;
+  /* background-color: black; */
+}
+mark{
+  color: #FFF;
+  background-color: #554709e9;
+}
+a{
+  font-size: 18px;
+  font-family: 'Times New Roman', Times, serif;
+  color: whitesmoke;
+}
+a:hover{
+  color: hotpink;
+}
+h2{
+  font-family: sans-serif;
+  font-size: 40px;
+  color: #00bfff;
+}
+.shelfimg{
+  position: relative;
+  margin-left: -15px;
+  width: 101.555555%;
+}
+
+/* .box1{
+  margin-top: 15px;
+  border-radius: 15px 50px;
+  background: black ;
+  float:left;
+  padding: 30px;
+  width: 45%;
+  box-shadow: 5px 10px 12px cyan;
+} */
+
+.box2:hover{
+  /* -webkit-transition-delay: transform 1s ease; */
+  transform: scale(0.8);
+}
+.box3:hover{
+  /* -webkit-transition-delay: transform 1s ease; */
+  transform: scale(0.8);
+}
+
+.box2{
+  margin-top: 50px;
+  border-radius: 15px 50px;
+  background: black ;
+  padding: 25px;
+  float:right;
+  width: 46%;
+  height: auto;
+  box-shadow: 5px 10px 12px cyan;
+  margin-bottom: 50px;
+  
+}
+.box3{
+  margin-top: 50px;
+  border-radius: 15px 50px;
+  background: black;
+  padding: 25px;
+  width: 43%;
+  float: left;
+  height: auto;
+  box-shadow: 5px 10px 12px cyan;
+  margin-bottom: 50px;
+}
+.hyper{
+  position: fixed;
+  top: 750px;
+  margin-right: 1%;
+  left: 96%;
+  /* display: block; */
+  /* z-index: 0; */
+  /* position: fixed; */
+}
+
+
+
+/* -------------------------------------------------------------------------------------------------------------------------------------- */
